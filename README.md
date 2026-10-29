@@ -15,6 +15,10 @@ Audacity for sfx
 
 .
 
+I'm currently trying to learn more about website making.
+
+.
+
 I will be updating this with more things later on like a link to a website portfolio.
 
 <!--
